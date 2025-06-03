@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Matthew Clarke
-- 👀 I’m interested in AI and Machine Learning
-- 📝 I’m currently learning Computer Science @ Oregon State
-- 🤝 I’m looking for internships in software engineering to develop my skill set
-- 📫 How to reach me is email me or message me on linkedin
+- 👀 Interested in AI and Machine Learning
+- 📝 Currently learning Computer Science @ Oregon State
+- 🤝 Looking for internships in software engineering to develop my skill set
+- 📫 Contact: mmfclarke1@gmail.com | [my linkedin](https://www.linkedin.com/in/matthew-marciano-clarke/)
 
 <!---
 mmfclarke/mmfclarke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
