@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Matthew Clarke
-- 👀 Interested in AI and Machine Learning
 - 📝 Currently learning Computer Science @ Oregon State
 - 🤝 Looking for internships in software engineering to develop my skill set
 - 📫 Contact: mmfclarke1@gmail.com | [my linkedin](https://www.linkedin.com/in/matthew-marciano-clarke/)
